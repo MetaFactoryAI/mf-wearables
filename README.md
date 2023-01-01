@@ -1,6 +1,9 @@
-# metafactory-wearables
+# Metafactory Wearables
 
-avatar versions of merch
+Digital versions of physical merch sold on shop.metafactory.ai
+See tasks: https://app.dework.xyz/metafactory/metaverse
+
+## Progress
 
 | Folder Name | PNG File | Apose GLB | Tpose GLB | GLB File |
 | ---------- | -------- | --------- | --------- | -------- |
@@ -23,15 +26,18 @@ avatar versions of merch
 | 27 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 28 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 29 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| 33 |  |  |  | :heavy_check_mark: |
+| 33 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 34 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 36 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 37 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 38 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 39 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 40 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 48 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 49 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 51 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 54 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 56 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 57 |  |  |  | :heavy_check_mark: |
 | 58 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -56,8 +62,10 @@ avatar versions of merch
 | 94 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 95 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 96 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 97 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 98 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 99 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 100 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 101 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 102 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 103 |  |  |  |  |
@@ -65,6 +73,7 @@ avatar versions of merch
 | 106 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 108 | :heavy_check_mark: |  |  |  |
 | 110 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 112 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 113 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 114 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 119 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -72,19 +81,25 @@ avatar versions of merch
 | 121 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 122 |  |  |  |  |
 | 123 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 127 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 132 |  |  |  |  |
 | 136 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 138 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 139 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 140 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 141 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 144 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 146 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 147 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 148 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 149 | :heavy_check_mark: |  |  |  |
 | 152 |  |  |  |  |
 | 153 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 154 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 156 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 164 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 
 
-- Folders with png and glb: 58
-- Total folders: 79
-- Percentage of folders with png and glb: 73.00%
+- Folders with png and glb: 70
+- Total folders: 91
+- Percentage of folders with png and glb: 76.00%
