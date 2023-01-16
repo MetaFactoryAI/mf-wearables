@@ -7,7 +7,7 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 
 | Folder Name | PNG File | Apose GLB | Tpose GLB | GLB File |
 | ---------- | -------- | --------- | --------- | -------- |
-| 2 |  |  |  | :heavy_check_mark: |
+| 2 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 3 | :heavy_check_mark: |  |  |  |
 | 4 | :heavy_check_mark: |  |  |  |
 | 7 |  |  |  | :heavy_check_mark: |
@@ -16,6 +16,7 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 12 | :heavy_check_mark: |  |  |  |
 | 13 | :heavy_check_mark: |  |  |  |
 | 14 | :heavy_check_mark: |  |  |  |
+| 16 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 17 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 18 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 19 | :heavy_check_mark: |  |  | :heavy_check_mark: |
@@ -37,7 +38,9 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 49 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 51 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 53 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 54 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 55 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 56 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 57 |  |  |  | :heavy_check_mark: |
 | 58 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -47,14 +50,20 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 63 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 64 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 65 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 66 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 67 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 69 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 70 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 71 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 72 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 74 |  |  |  | :heavy_check_mark: |
+| 76 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 77 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 78 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 79 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 80 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 88 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 89 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 90 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 91 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 92 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -71,35 +80,48 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 103 |  |  |  |  |
 | 105 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 106 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| 108 | :heavy_check_mark: |  |  |  |
+| 107 | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| 108 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 109 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 110 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 112 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 113 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 114 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 116 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 117 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 119 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 120 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 121 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| 122 |  |  |  |  |
+| 122 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 123 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 127 | :heavy_check_mark: |  |  | :heavy_check_mark: |
-| 132 |  |  |  |  |
+| 130 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 131 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 132 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 136 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 138 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 139 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 140 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 141 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 144 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 145 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 146 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 147 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 148 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| 149 | :heavy_check_mark: |  |  |  |
-| 152 |  |  |  |  |
+| 149 | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| 152 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 153 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 154 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 155 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 156 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 159 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 164 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 
 
-- Folders with png and glb: 70
-- Total folders: 91
-- Percentage of folders with png and glb: 76.00%
+- Folders with png and glb: 97
+- Total folders: 109
+- Percentage of folders with png and glb: 88.00%
+- Percentage of folders with png only: 95.00%
+- Percentage of folders with glb files: 92.00%
+
+The following folders do not have glb files: 3 4 10 11 12 13 14 103
