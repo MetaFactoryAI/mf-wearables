@@ -1,0 +1,42 @@
+name: Asset Pallet Generator
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install screenshot-glb
+      run: npm install --save @shopify/screenshot-glb
+
+    - name: Update pallet site
+      run: |
+        chmod +x scripts/generate_html_gallery.sh
+        ./scripts/generate_html_gallery.sh wearables --head --body --tail > index.html
+
+
+    - name: Take screenshots and make pallet
+      run: |
+        chmod +x scripts/screenshot2.sh
+        ./scripts/screenshot2.sh wearables
+
+    - name: Update README
+      run: |
+        python scripts/table.py wearables > README.md
+      
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "$GIT_USER"
+        git config --global user.email "$GIT_EMAIL"
+        git add .
+        git commit -m "Update READMEs"
+        git push
