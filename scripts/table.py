@@ -1,6 +1,7 @@
 import os
 import sys
 import math
+import subprocess
 from pathlib import Path
 
 def main():
@@ -22,6 +23,9 @@ def main():
     count = len(pairs)
     size = int(math.sqrt(count))
 
+    output = subprocess.check_output(['bash', 'scripts/table.sh', directory], universal_newlines=True)
+
+
     ## Change this later to be based on repo name
     print("# MF Wearables\n")
     print("Digital versions of physical merch sold on shop.metafactory.ai\n")
@@ -30,7 +34,8 @@ def main():
     print("\n")
     print("<details>\n")
     print("<summary>View Checklist</summary>\n")
-    os.system('bash scripts/table.sh {}'.format(directory))
+    #os.system('bash scripts/table.sh {}'.format(directory))
+    print(output)
     print("</details>\n")
     print("\n")
     print(f" ## Progress {directory}")
