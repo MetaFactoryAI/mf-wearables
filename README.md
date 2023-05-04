@@ -1,3 +1,17 @@
+# MF Wearables
+
+Digital versions of physical merch sold on shop.metafactory.ai
+
+
+
+See tasks: https://app.dework.xyz/metafactory/metaverse
+
+
+
+<details>
+
+<summary>View Checklist</summary>
+
 | Folder Name | PNG File | Apose GLB | Tpose GLB | GLB File |
 | ---------- | -------- | --------- | --------- | -------- |
 | 2 | :heavy_check_mark: |  |  | :heavy_check_mark: |
@@ -124,19 +138,6 @@
 - Folders with completed assets: 111
 - Total folders: 122
 - Percentage of folders with png and glb: 90.00%
-# MF Wearables
-
-Digital versions of physical merch sold on shop.metafactory.ai
-
-
-
-See tasks: https://app.dework.xyz/metafactory/metaverse
-
-
-
-<details>
-
-<summary>View Checklist</summary>
 
 </details>
 
