@@ -33,7 +33,7 @@ jobs:
     - name: Update README
       run: |
         python scripts/table.py wearables > README.md
-        python scripts/table_html.py wearables > wearables/README.md
+        python scripts/table_html.py wearables | tee wearables/README.md wearables/index.md
       
 
     - name: Commit changes
