@@ -2,7 +2,7 @@
 
 # Check if HDR file is provided
 if [ -z "$1" ]; then
-  echo "Usage: $0 <HDR_FILE>"
+  echo "Usage: $0 <HDR_FILE> <SKYBOX_JPG>"
   exit 1
 fi
 

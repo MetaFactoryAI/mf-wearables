@@ -17,13 +17,15 @@ jobs:
     - name: Install screenshot-glb
       run: npm install --save @shopify/screenshot-glb
 
-
-
     - name: Take screenshots and make pallet
       run: |
         chmod +x scripts/screenshot2.sh
         ./scripts/screenshot2.sh wearables
     
+    - name: Update the HTML for every wearable
+      run: |
+        chmod +x scripts/model-viewer8.sh
+        ./scripts/model-viewer8.sh skyboxes/dam_wall_1k.hdr skyboxes/1.jpg
 
     - name: Update pallet site
       run: |
