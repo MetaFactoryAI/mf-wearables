@@ -27,6 +27,10 @@ def main():
     output = subprocess.check_output(['bash', 'scripts/table.sh', directory], universal_newlines=True)
 
     ## Change this later to be based on repo name
+    print("---")
+    print("layout: default")
+    print("title: MF Wearables HTML Previews")
+    print("---\n")
     print("# MF Wearables HTML Previews\n")
     print("Digital versions of physical merch sold on shop.metafactory.ai\n")
     print("\n")

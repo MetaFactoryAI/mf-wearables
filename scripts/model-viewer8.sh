@@ -74,7 +74,7 @@ for dir in "$folder"/*; do
     <button onclick="document.querySelector('model-viewer').exitFullscreen()">Exit VR</button>
     <button onclick="document.querySelector('model-viewer').ar.activate()">AR Mode</button>
   </div>
-  <model-viewer src="${glb}" camera-controls auto-rotate touch-action="pan-y" skybox-image="../${skybox_file}" environment-image="../${hdr_file}"></model-viewer>
+  <model-viewer src="${glb}" camera-controls auto-rotate touch-action="pan-y" skybox-image="../../${skybox_file}" environment-image="../../${hdr_file}"></model-viewer>
 </body>
 </html>
 EOL
