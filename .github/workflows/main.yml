@@ -17,20 +17,23 @@ jobs:
     - name: Install screenshot-glb
       run: npm install --save @shopify/screenshot-glb
 
-    - name: Update pallet site
-      run: |
-        chmod +x scripts/generate_html_gallery.sh
-        ./scripts/generate_html_gallery.sh wearables --head --body --tail > index.html
 
 
     - name: Take screenshots and make pallet
       run: |
         chmod +x scripts/screenshot2.sh
         ./scripts/screenshot2.sh wearables
+    
+
+    - name: Update pallet site
+      run: |
+        chmod +x scripts/generate_html_gallery.sh
+        ./scripts/generate_html_gallery.sh wearables --head --body --tail > index.html
 
     - name: Update README
       run: |
         python scripts/table.py wearables > README.md
+        python scripts/table_html.py wearables > wearables/README.md
       
 
     - name: Commit changes
