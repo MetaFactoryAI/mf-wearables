@@ -1,3 +1,8 @@
+---
+layout: default
+title: MF Wearables HTML Previews
+---
+
 # MF Wearables HTML Previews
 
 Digital versions of physical merch sold on shop.metafactory.ai
