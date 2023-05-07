@@ -23,9 +23,15 @@ for dir in "$folder"/*; do
   # Loop through all GLB files in the directory
   i=0
   for glb_file in "${dir}"/*.glb; do
-    # Check if file name ends with "_t.glb"
-    if [[ "${glb_file}" == "*_t.glb" ]]; then
-      continue
+    # Check if file name ends with "_a.glb"
+    if [[ "${glb_file}" == *_a.glb ]]; then
+      glb=$(basename "${glb_file}")
+    else
+      # Check if file name ends with "_t.glb"
+      if [[ "${glb_file}" == *_t.glb ]]; then
+        continue
+      fi
+      glb=$(basename "${glb_file}")
     fi
 
     # Increment file counter
@@ -73,8 +79,9 @@ for dir in "$folder"/*; do
     <button onclick="document.querySelector('model-viewer').enterFullscreen()">Enter VR</button>
     <button onclick="document.querySelector('model-viewer').exitFullscreen()">Exit VR</button>
     <button onclick="document.querySelector('model-viewer').ar.activate()">AR Mode</button>
+
   </div>
-  <model-viewer src="${glb}" camera-controls auto-rotate touch-action="pan-y" skybox-image="../../${skybox_file}" environment-image="../../${hdr_file}"></model-viewer>
+  <model-viewer src="${glb}" id="shadow-intensity-demo" shadow-intensity="0.2" shadow-softness="0,2" camera-controls auto-rotate touch-action="pan-y" skybox-image="../../${skybox_file}" environment-image="../../${hdr_file}"></model-viewer>
 </body>
 </html>
 EOL
