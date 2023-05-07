@@ -1,0 +1,36 @@
+{
+  "name": "Ultra Sound Summer Tee",
+  "description": "The number one shirt to upgrade your monetary policy with. Designed by Sinjun, you’ll love the premium quality of this shirt, plus the bold and vibrant design that is really good in any season. And yes, you need the whole set.",
+  "decimals": 0,
+  "image": "https://ipfs.io/ipfs/bafybeihfvmw7b2w4ifnvzzbulkgkx4wnnaahwrn7djrfjz7v4mybiiynbe",
+  "external_url": "https://mf.app/",
+  "animation_url": "https://ipfs.io/ipfs/bafybeif6aimx74ny54sgxcez2ehxzdb3favwtpwvuqooet7vzn3royjuza",
+  "properties": {
+    "brand": "Bankless",
+    "rarity": "",
+    "season": "1",
+    "style": "Shirt",
+    "material": "100% Poly",
+    "manufactured_in": "United States",
+    "designers": ["Sinjun"],
+    "models": [
+      {
+        "mimeType": "model/gltf-binary",
+        "uri": "ipfs://bafybeif6aimx74ny54sgxcez2ehxzdb3favwtpwvuqooet7vzn3royjuza",
+        "properties": {
+          "description": "a GLTF file for Webaverse, NeosVR and 3D "
+        }
+      },
+      {
+        "mimeType": "model/vnd.usd+zip",
+        "description": "a USD file for AR",
+        "uri": "ipfs://"
+      },
+      {
+        "mimeType": "model/vox",
+        "description": "a folder of VOX files for vox models, like cryptovoxels",
+        "uri": "ipfs://"
+      }
+    ]
+  }
+}

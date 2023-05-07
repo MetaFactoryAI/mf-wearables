@@ -1,0 +1,36 @@
+{
+  "name": "Tribes: Pimp Gang Hoodie",
+  "description": "We heard you're bored and love to ape. Introducing the second drop of the Apesthetics x MetaFactory Tribes Series. All animals of the NFT kingdom are welcome. This drop is open to all Hypebeast JPG fans out there. We are an inclusive family at Apesthetics x Metafactory.\nEach physical hoodie comes installed with a SiLo Kong chip for proof of authenticity, your physical products deserve smart contracts too. You can also anticipate an ERC-1155 NFT of the featured backside artwork and a future 3D wearable to rep in the metaverse.\nApes: @OGDfarmer\nProcedural Fur: @Fraemwerk\nRoboApe Logo: @werdevill @humangonerotten\nThat One Guy: @CryptoAccord",
+  "decimals": 0,
+  "image": "https://ipfs.io/ipfs/bafybeies277bpy2wdljocbbz5colybvhnsqpo75hp4st7udpujbwzkh2ie",
+  "external_url": "https://mf.app/",
+  "animation_url": "https://ipfs.io/ipfs/bafybeifjoipqx7e7v3gvhelx3wr4egnu2spvltmduwl5xcokzngrcv27bu",
+  "properties": {
+    "brand": "Apesthetics",
+    "rarity": "",
+    "season": "1",
+    "style": "Hoodie",
+    "material": "90% Cotton 10% Poly",
+    "manufactured_in": "Poland",
+    "designers": ["Apesthetics"],
+    "models": [
+      {
+        "mimeType": "model/gltf-binary",
+        "uri": "ipfs://bafybeifjoipqx7e7v3gvhelx3wr4egnu2spvltmduwl5xcokzngrcv27bu",
+        "properties": {
+          "description": "a GLTF file for Webaverse, NeosVR and 3D "
+        }
+      },
+      {
+        "mimeType": "model/vnd.usd+zip",
+        "description": "a USD file for AR",
+        "uri": "ipfs://"
+      },
+      {
+        "mimeType": "model/vox",
+        "description": "a folder of VOX files for vox models, like cryptovoxels",
+        "uri": "ipfs://"
+      }
+    ]
+  }
+}
