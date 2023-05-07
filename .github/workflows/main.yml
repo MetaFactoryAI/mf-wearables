@@ -25,7 +25,7 @@ jobs:
     - name: Update the HTML for every wearable
       run: |
         chmod +x scripts/model-viewer8.sh
-        ./scripts/model-viewer8.sh skyboxes/dam_wall_1k.hdr skyboxes/1.jpg
+        ./scripts/model-viewer8.sh skyboxes/dam_wall_1k.hdr skyboxes/39.jpg
 
     - name: Update pallet site
       run: |
