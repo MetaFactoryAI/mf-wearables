@@ -70,6 +70,7 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 72 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 73 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 74 | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| 75 |  |  |  | :heavy_check_mark: |
 | 76 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 77 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 78 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -110,6 +111,7 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 122 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 123 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | 124 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| 125 |  |  |  | :heavy_check_mark: |
 | 127 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 129 | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | 130 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -138,8 +140,8 @@ See tasks: https://app.dework.xyz/metafactory/metaverse
 | 171 |  |  |  |  |
 
 
-- Folders with completed assets: 115
-- Total folders: 125
+- Folders with completed assets: 117
+- Total folders: 127
 - Percentage of folders with png and glb: 92.00%
 
 </details>
