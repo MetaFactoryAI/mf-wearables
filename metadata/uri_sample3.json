@@ -1,0 +1,60 @@
+{
+    "name": "Vaunker Hoodie",
+    "description": "some description here",
+    "image": "ipfs://...",
+    "external_url": "https://mf.app/<tokenId>",
+    "animation_url": "ipfs://...", // Points to primary 3D model
+    "properties": {
+        "brand": "Vaunker",
+        "season": "2",
+        "style": "Hoodie",
+        "composition": "100% Cotton",
+    "madeIn": "United States",
+        "releaseDate": "Jan 1, 2022",
+        "shopLink": "https://shop.metafactory.ai/..."
+        "creators": [
+            {
+                "name": "weseeclearly",
+                "share": 30,
+                "role": "Technician",
+                "did": "..."
+            },
+            {
+                "name": "Van",
+                "share": 70,
+                "role": "Designer",
+                "did": "..."
+            }
+        ],
+        "files": [
+            {
+                "mimeType": "model/gltf-binary",
+                "uri": "ipfs://...",
+                "properties": {
+                    "description": "a GLTF file for Webaverse, NeosVR, etc",
+                } // Generic map of keys/values
+            },
+            {
+                "mimeType": "model/vnd.usd+zip",
+                "uri": "ipfs://...",
+                "properties": {
+                    "description": "a USD file for AR",
+                }
+            },
+            {
+                "mimeType": "application/octet-stream",
+                "uri": "ipfs://...",
+                "properties": {
+                    "description": "CLO3D / Marvelous Designer Project File",
+                }
+            },
+            {
+                "mimeType": "model/vox", // not actually a real MIME type
+                "uri": "ipfs://...",
+                "properties": {
+                    "description": "a VOX file for Cryptovoxels",
+                }
+            }
+        ]
+    }
+}

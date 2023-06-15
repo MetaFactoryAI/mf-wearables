@@ -15,13 +15,13 @@ for glb_file in $glb_files; do
     folder=$(dirname "$glb_file")
 
     # Check if the file has been added or modified since the last commit
-    if git diff --name-only --diff-filter=AM "$last_commit" HEAD -- "$glb_file" | grep -q "$glb_file"; then
+    # if git diff --name-only --diff-filter=AM "$last_commit" HEAD -- "$glb_file" | grep -q "$glb_file"; then
         # Take the screenshot
-        if node ./node_modules/.bin/screenshot-glb -i "$glb_file" -w 512 -h 512 -m "orientation=0 0 120" -o "$folder/$filename.png"; then
-            echo "Screenshot of $glb_file saved as $folder/$filename.png"
-        else
-            echo "Failed to take screenshot of $glb_file"
-        fi
-    fi
+      if node ./node_modules/.bin/screenshot-glb -i "$glb_file" -w 512 -h 512 -m "orientation=0 0 120" -o "$folder/$filename.png"; then
+          echo "Screenshot of $glb_file saved as $folder/$filename.png"
+      else
+          echo "Failed to take screenshot of $glb_file"
+      fi
+    #fi
 done
 
