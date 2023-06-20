@@ -1,0 +1,218 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v3.3.27",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "hat",
+      "rotation": [
+        0.001989129465073347,
+        0.006571270525455475,
+        0.00032570166513323784,
+        0.999976396560669
+      ],
+      "scale": [
+        0.7967725992202759,
+        0.7967726588249207,
+        0.7967725992202759
+      ],
+      "translation": [
+        0,
+        0.015293396078050137,
+        0
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            0.11811023950576781,
+            0.11811023950576781,
+            0.11811023950576781
+          ]
+        }
+      },
+      "name": "hat",
+      "normalTexture": {
+        "index": 0,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.047244101762771606,
+        "roughnessFactor": 0.9015747904777527,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "hat",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "COLOR_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "name": "161_NORM",
+      "uri": "161_NORM.png"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "161",
+      "uri": "161.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1229,
+      "max": [
+        0.10441403836011887,
+        0.11107103526592255,
+        0.18953071534633636
+      ],
+      "min": [
+        -0.10414419323205948,
+        -0.05707395076751709,
+        -0.1338646113872528
+      ],
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1229,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1229,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1229,
+      "normalized": true,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 5142,
+      "type": "SCALAR",
+      "byteOffset": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 14748,
+      "byteOffset": 0,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14748,
+      "byteOffset": 14752,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9832,
+      "byteOffset": 29504,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9832,
+      "byteOffset": 39336,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10284,
+      "byteOffset": 49168,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "buffers": [
+    {
+      "name": "161_hat",
+      "byteLength": 59456,
+      "uri": "161_hat.bin"
+    }
+  ]
+}
